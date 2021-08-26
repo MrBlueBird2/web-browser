@@ -3,7 +3,7 @@ This is an old style web browser created in Python using PyQt5 Module.
 
 # Modules
 ```
-pip install PyQtWebEngine\
+pip install PyQtWebEngine
 ```
 This will install PyQtWebEngine Module.
 
